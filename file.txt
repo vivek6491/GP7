@@ -1,3 +1,4 @@
 Line 1
  Line 2 from feature branch 
  Line 3 from feature branch 
+ Line 6 changes in master
