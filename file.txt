@@ -1,5 +1,9 @@
 Line 1
  Line 2 from feature branch 
  Line 3 from feature branch 
+ HEAD
 Line 4 from feature
 Line 5 from feature
+
+ Line 6 changes in master
+ master
